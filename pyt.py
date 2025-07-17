@@ -1,0 +1,2 @@
+a="vijay"
+print(a)
